@@ -1,5 +1,4 @@
-# Sites_Utiles
-Une liste de sites qui aident au développement des projets quotidiens
+# Une liste de sites qui aident au développement des projets quotidiens
 
 Mubert pour générer de la musique
 https://mubert.com/render
